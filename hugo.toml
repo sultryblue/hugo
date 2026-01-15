@@ -1,0 +1,4 @@
+baseURL = "https://sultryblue.github.io/hugo/"
+languageCode = "en-us"
+title = "Agnės Hugo tinklalapis"
+theme = "ananke"
